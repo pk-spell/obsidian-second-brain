@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian Cache & Workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Optional: mobile-only Zeug
+.obsidian/plugins/obsidian-mobile/
